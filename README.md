@@ -1,6 +1,6 @@
 Next JS app created using create-next-app
 
-Testing different properties in R3F such as velocity and path of an object, rotating, lighting etc
+Testing different physical properties in R3F such as velocity, acceleration and path of an object, rotating, lighting etc
 
 ![orbiting-gif](https://github.com/cark316/nextjs-R3F-stuff/assets/134771426/1cd919f1-9784-42ab-abe2-32698755ad9b)
 
