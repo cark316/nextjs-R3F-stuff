@@ -8,7 +8,7 @@ Importing models into R3F and positioning them, lightining etc
 
 ![models-import-gif](https://github.com/cark316/nextjs-R3F-stuff/assets/134771426/1ead2abc-10e8-44cf-bddc-dede25ed0257)
 
-Trying to apply shaders but unable to, basically tried creating a white outline effect on black bodies however ended up using wireframe mode for the outline
+Tried to apply shaders but was unable to, basically tried creating a white outline effect on black bodies however ended up using wireframe mode for the outline
 
 ![wireframe-cube](https://github.com/cark316/nextjs-R3F-stuff/assets/134771426/8aa3ba88-8668-4e17-9cef-0266072bbf73)
 
